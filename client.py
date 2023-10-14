@@ -5,6 +5,8 @@ import struct
 from mss import mss
 import numpy as np
 
+fff = open()
+
 
 class Client:
     def __init__(self, host, port):
